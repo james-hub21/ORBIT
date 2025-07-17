@@ -12,6 +12,16 @@ The system serves three user roles (Student, Faculty, Admin) with role-based acc
 
 Preferred communication style: Simple, everyday language.
 
+## Recent Changes
+
+### January 17, 2025 - Vercel Deployment Preparation
+- ✓ Created comprehensive Vercel deployment configuration
+- ✓ Added Supabase integration for production database
+- ✓ Set up VS Code workspace with PowerShell support
+- ✓ Created automated setup and deployment scripts
+- ✓ Added complete documentation for plug-and-play setup
+- ✓ Configured serverless API endpoints for Vercel compatibility
+
 ## System Architecture
 
 ### Frontend Architecture
